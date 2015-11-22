@@ -18,8 +18,29 @@
 </ul>
 <h1>Chrembroke House</h1>
 <h2>The ultimate team of Christ's, Emmanuel, Pembroke and Peterhouse Colleges</h2>
-<h3>About us</h3>
-<p>We are the ultimate team of colleges Christ’s, Emmanuel, Pembroke and Peterhouse of Cambridge University. 
-Started in Michelmas 2010, we keep loving ultimate forever.</p>
-<h3>What is ultimate?</h3>
+<div id=about>
+	<h3>About us</h3>
+	<p>We are the ultimate team of colleges Christ’s, Emmanuel, Pembroke and Peterhouse of Cambridge University. 
+	Started in Michelmas 2010, we keep loving ultimate forever.</p>
+</div>
+<div id=ultimate>
+	<h3>What is ultimate?</h3>
+	<p>Description of ultimate and links and stuff</p>
+</div>
+<div id=join>
+	<h3>How to join?</h3>
+	<p>Just come to one of our trainings! We train every Wednesday on Parkers Piece, 2-4pm. No need to sign up, everyone is welcome regardless of previous experience!</p>
+</div>
+<div id=news>
+	<h3>News</h3>
+	<p>21/11/2015: Crazy levels of wind did not stop us from winning 7:5 over Frisee Rascalls last Saturday! Aftewards we celebrated with a college-bar crawl.</p>
+	<p>18/11/2015: Kit has arrived! Also because of rain, training moved from Parkers Piece to Jesus Green.</p>
+</div>
+<div id=contact>
+	<h3>Contact us</h3>
+	<p>Captain: James Famelton, Christs College, e-mail: jrf54@cam.ac.uk</p>
+	<p>Facebook group: (change into link/button) Chrembroke House Ultimate</p>
+</div>
+</body>
+</html>
 
