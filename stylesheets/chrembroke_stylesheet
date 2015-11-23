@@ -1,0 +1,23 @@
+.jumbotron {
+	text-align: center;
+	background-size: cover;
+	background: url("https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xap1/t31.0-8/12184239_801936149936155_2053260780642333560_o.jpg");
+	color: #872522;
+}
+a {
+	color: #872522;
+}
+h1 {
+	font-size: 70px;
+}
+ul {
+	padding 10px;
+	background: rgba(0, 0, 0, 0.5);
+}
+li {
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}
+body {
+	background-color: #BADEDC;
+}
