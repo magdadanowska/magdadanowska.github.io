@@ -3,43 +3,57 @@
 
 <head>
   <link href='dist/css/bootstrap.css' rel='stylesheet'>
-  <link href='main.css' rel='stylesheet'>
+  <link href='chrembroke_css.css' rel='stylesheet'>
   <title>ChrEmBroke House Ultimate</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
+<div class='container'>
+<div class='jumbotron'>
 <ul>
-  <li>About us</li>
-  <li>What is ultimate?</li>
-  <li>How to join?</li>
-  <li>News</li>
-  <li>Contact us</li>
+  <li><a href="#">About us</a></li>
+  <li><a href="#">What is ultimate?</a></li>
+  <li><a href="#">How to join?</a></li>
+  <li><a href="#">News</a></li>
+  <li><a href="#">Contact us</a></li>
 </ul>
 <h1>Chrembroke House</h1>
 <h2>The ultimate team of Christ's, Emmanuel, Pembroke and Peterhouse Colleges</h2>
-<div id=about>
+</div>
+<div id='about'>
 	<h3>About us</h3>
 	<p>We are the ultimate team of colleges Christ’s, Emmanuel, Pembroke and Peterhouse of Cambridge University. 
 	Started in Michelmas 2010, we keep loving ultimate forever.</p>
 </div>
-<div id=ultimate>
+<div id='ultimate'>
 	<h3>What is ultimate?</h3>
 	<p>Description of ultimate and links and stuff</p>
 </div>
-<div id=join>
+<div id='join'>
 	<h3>How to join?</h3>
 	<p>Just come to one of our trainings! We train every Wednesday on Parkers Piece, 2-4pm. No need to sign up, everyone is welcome regardless of previous experience!</p>
 </div>
-<div id=news>
+<div id='news'>
 	<h3>News</h3>
 	<p>21/11/2015: Crazy levels of wind did not stop us from winning 7:5 over Frisee Rascalls last Saturday! Aftewards we celebrated with a college-bar crawl.</p>
 	<p>18/11/2015: Kit has arrived! Also because of rain, training moved from Parkers Piece to Jesus Green.</p>
 </div>
-<div id=contact>
+<div id='contact'>
 	<h3>Contact us</h3>
 	<p>Captain: James Famelton, Christs College, e-mail: jrf54@cam.ac.uk</p>
 	<p>Facebook group: (change into link/button) Chrembroke House Ultimate</p>
+	<form role='form'>
+      <label for="email">Or sign up for our newsletter!</label>
+      <input type="text" name="email" >
+      <button class='btn btn-success'>Send</button>
+    </form>
+    <div id='social-buttons'>
+      <button class="btn-twitter btn-lg">Twitter</button>
+      <button class="btn-facebook btn-lg">Facebook</button>
+      <button class="btn-pinterest btn-lg">Pinterest</button>
+    </div>
+</div>
 </div>
 </body>
 </html>
